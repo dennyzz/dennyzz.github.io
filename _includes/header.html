@@ -9,7 +9,7 @@
         <a class="page-link" href="{{ site.baseurl }}/">blog</a>
 
         {% for page in site.pages %}
-          {% if page.navbar == "yes" %}
+          {% if page.navbar %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

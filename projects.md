@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects
 title: projects
+navbar: yes
 description: 
 ---
 
