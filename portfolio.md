@@ -2,6 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio
+navbar: yes
 description: 
 ---
 
