@@ -11,6 +11,12 @@ navbar: yes
 Hi there! I'm Denny
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <hr/>
 <br/>
 <div class="contacticon center">
