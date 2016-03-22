@@ -1,0 +1,45 @@
+# Site settings
+title: Denny Zhang
+email: dennyz@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  An online portfolio
+baseurl:  
+url:  dennyzz.github.io
+
+# Includes an icon in the footer for each username you enter
+profiles:
+  dribbble:
+  email: dennyz@umich.edu
+  facebook: dennyzhang
+  flickr:
+  github: dennyzz
+  instagram: 
+  linkedin: denny-zhang-30048539
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
