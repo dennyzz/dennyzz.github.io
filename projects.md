@@ -1,44 +1,44 @@
 ---
 layout: page
-title: projects
-permalink: /projects
+title: projectss
+permalink: /projectss
 navbar: yes
 description: 
 ---
 
-{% for project in site.project %}
+{% for projects in site.projects %}
 
-{% if project.redirect %}
-<div class="project">
+{% if projects.redirect %}
+<div class="projects">
     <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        <a href="{{ projects.redirect }}" target="_blank">
+        {% if projects.img %}
+        <img class="thumbnail" src="{{ projects.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h1>{{ projects.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ projects.description }}</p>
         </span>
         </a>
     </div>
 </div>
 {% else %}
 
-<div class="project ">
+<div class="projects ">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        <a href="{{ site.baseurl }}{{ projects.url }}">
+        {% if projects.img %}
+        <img class="thumbnail" src="{{ projects.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h1>{{ projects.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ projects.description }}</p>
         </span>
         </a>
     </div>
