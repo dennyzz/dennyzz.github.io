@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-date: 2016-03-21 120:41:00
+date: 2016-03-21 12:41:00
 description: A beginning on the interwebs
 ---
 
