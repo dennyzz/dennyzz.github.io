@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project
-permalink: /project
+title: projects
+permalink: /projects
 navbar: yes
 description: 
 ---
