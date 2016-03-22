@@ -1,49 +1,16 @@
 ---
 layout: page
-title: portfolio
 permalink: /portfolio
+title: portfolio
 navbar: yes
 description: 
 ---
 
-{% for project in site.portfolio %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-{% endif %}
-
+<ul class="post-list">
+{% for portfolio in site.portfolio reversed %}
+    <li>
+        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ portfolio.title }}</a></h2>
+        <p class="post-meta">{{ portfolio.date | date: '%B %-d, %Y — %H:%M' }}</p>
+      </li>
 {% endfor %}
+</ul>
