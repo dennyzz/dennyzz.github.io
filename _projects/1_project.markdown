@@ -1,55 +1,12 @@
 ---
 layout: post
-title: Project
-description: a blank project
-img: 
+title: Github Pages Website
+description: a Github Pages Website powered by Jekyll
+img: /img/squirrel.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+This website will be project #1 to fill in things as I go 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+This will be another foray into the web development that I find as somewhat fun. Learning how to use code to make a certain visual aesthetic is rewarding. With all these new web development tools, standards, and applications, there's just so much choice behind what kind of website to go with. There's a Wordpress blog, which I found a bunch of themes which I would have paid for, except free Wordpress hosting does not allow outside themes. I could have grabbed a free Amazon EC2 server and made my own hosting environment. From there I would have to figure out what languages I wanted to use, whether a LAMP stack of a XAMP stack or something, and then basically start from scratch in making some kind of website. It would only cost me a few bucks a month to run, and maybe having that money go into it would help motivate me, but it still looks like too much work if I only want to worry about content. I was unable to find a free wordpress theme that I wanted to use that would let me do hosting a blog style side for the occassional thought, and then a blog style documentation of any projects of mine, while also having support for a photo gallery with which to upload the albums fulls of pictures that I take with my camera. So here we are with Jekyll. It's free, and has enough freedom to let me make this website as I please, while also having enough theming and simplicity to do much less work. Did i mention that it's free? I just need to find a better github name since DennyZhang and DennyZ are both taken.	
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+So we're starting with this <a href="https://github.com/bogoli/-folio">*folio</a> theme which I thought looked pretty good. Now since I am running on a windows machine it is much more painful to set up Jekyll on the OS, so we'll just let Github take care of all the compilation.
