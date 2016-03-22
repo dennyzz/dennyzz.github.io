@@ -13,11 +13,9 @@ Hi there! I'm Denny
 <br/>
 <hr/>
 <br/>
-<span class="contacticon center">
-
+<div class="contacticon center">
   {% include svg-icons.html %}
-
-</span>
+</div>
 
 <div class="col three caption">
 	<!-- You can even add a little note about which of these is the best way to reach you. -->
