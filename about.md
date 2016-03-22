@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about
+navbar: yes
 ---
 
 <img class="col one right" src="/img/squirrel.jpg">
@@ -13,7 +14,9 @@ Hi there! I'm Denny
 <hr/>
 <br/>
 <span class="contacticon center">
+
   {% include svg-icons.html %}
+
 </span>
 
 <div class="col three caption">

@@ -2,6 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio
+description: 
 ---
 
 {% for project in site.portfolio %}
