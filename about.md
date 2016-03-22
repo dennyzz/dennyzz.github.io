@@ -8,7 +8,8 @@ navbar: yes
 <img class="col one right" src="/img/squirrel.jpg">
 
 <br/>
-Hi there! I'm Denny
+Hi there! I'm Denny.
+I am currently attending the University of Michigan majoring in Electrical Engineering
 
 <br/>
 <br/>
