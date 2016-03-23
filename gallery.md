@@ -25,6 +25,4 @@ description: Photography Gallery
     </div>
 </div>
 
-{% endif %}
-
 {% endfor %}
