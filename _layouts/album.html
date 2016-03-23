@@ -14,8 +14,8 @@ layout: default
     {% for image in album.images %}
       <li>
         {{ image.text }}<br>
-        <a href="{{ album.imagefolder }}/{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
-          <img src="{{ album.thumbfolder }}/{{ image.thumb }}">
+        <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
+          <img src="{{ album.thumbfolder }}{{ image.thumb }}">
         </a>
       </li>
     {% endfor %}
