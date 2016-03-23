@@ -7,7 +7,7 @@ layout: default
 <p>default header for all gallery pages</p>
 
 {% for album in site.data.albums %}
-  {% if album.id == page.galleryid %}
+  {% if album.id == page.albumid %}
     <h1>{{ album.description }}</h1>
     <ol>
     {% for image in album.images %}

@@ -10,9 +10,9 @@ description: Photography Gallery
 
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ album.url }}">
-        {% if album.thumb %}
-        <img class="thumbnail" src="{{ album.img }}"/>
+        <a href="{{ site.baseurl }}gallery/albums/{{ album.id }}">
+        {% if album.cover %}
+        <img class="thumbnail" src="{{ album.thumbfolder }}{{ album.cover }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
