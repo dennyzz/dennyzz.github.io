@@ -10,7 +10,7 @@ description: Photography Gallery
 
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}gallery/albums/{{ album.id }}">
+        <a href="/albums/{{ album.id }}">
         {% if album.cover %}
         <img class="thumbnail" src="{{ album.thumbfolder }}{{ album.cover }}"/>
         {% else %}
