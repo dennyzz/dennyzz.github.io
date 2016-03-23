@@ -3,14 +3,28 @@ layout: page
 permalink: /gallery/
 title: gallery
 navbar: yes
-description: 
+description: Photography Gallery
 ---
 
-<ul class="post-list">
-{% for album in site.gallery %}
-    <li>
-        <h2><a class="poem-title" href="{{ poem.url | prepend: site.baseurl }}">{{ album.title }}</a></h2>
-        <p class="post-meta">{{ album.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
+{% for album in site.data.albums %}
+
+<div class="project">
+    <div class="thumbnail">
+        <a href="{{ site.baseurl }}{{ album.url }}">
+        {% if album.thumb %}
+        <img class="thumbnail" src="{{ album.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <h1>{{ album.title }}</h1>
+            <br/>
+            <p>{{ album.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+{% endif %}
+
 {% endfor %}
-</ul>

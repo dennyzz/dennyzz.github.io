@@ -1,0 +1,186 @@
+- id: stegosaurus
+  description: Building a Snow Stegosaurus
+  cover: IMG_3094.JPG
+  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/stegosaurus/
+  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/stegosaurus/thumbnails/
+  images:
+  - name: IMG_3061.jpg
+    thumb: IMG_3061.jpg
+    text: Working Diligently
+  - name: IMG_3073.jpg
+    thumb: IMG_3073.jpg
+    text: Denny and his Stegosaurus
+  - name: IMG_3077.jpg
+    thumb: IMG_3077.jpg
+    text: Denny and Andrew
+  - name: IMG_3080.jpg
+    thumb: IMG_3080.jpg
+    text: Denny and Akansha
+  - name: IMG_3088.jpg
+    thumb: IMG_3088.jpg
+    text: Akansha and Andrew
+  - name: IMG_3094.jpg
+    thumb: IMG_3094.jpg
+    text: All of us 
+
+- id: bungy
+  description: Bungy Jumping off Kawarau Bridge
+  cover: bungy-2.jpg
+  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/bungy/
+  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/bungy/thumbnails/
+  images:
+  - name: bungy-1.jpg
+    thumb: bungy-1.jpg
+    text: Ready to Jump
+  - name: bungy-2.jpg
+    thumb: bungy-2.jpg
+    text: A side view
+  - name: bungy-3.jpg
+    thumb: bungy-3.jpg
+    text: Jump!
+  - name: bungy-4.jpg
+    thumb: bungy-4.jpg
+    text: In the Air
+  - name: bungy-5.jpg
+    thumb: bungy-5.jpg
+    text: Upside down
+  - name: bungy-6.jpg
+    thumb: bungy-6.jpg
+    text: Bounce around
+  - name: bungy-7.jpg
+    thumb: bungy-7.jpg
+    text: Belly
+  - name: bungy-8.jpg
+    thumb: bungy-8.jpg
+    text: Boat rescue
+  - name: bungy-9.jpg
+    thumb: bungy-9.jpg
+    text: Fisheye View
+  - name: bungy-10.jpg
+    thumb: bungy-10.jpg
+    text: Wide Shot
+
+- id: lights
+  description: Light Painting Swirls
+  cover: IMG_5515.jpg
+  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/lights/
+  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/lights/thumbnails/
+  images:
+  - name: IMG_5487.jpg
+    thumb: IMG_5487.jpg
+    text: swirl
+  - name: IMG_5489.jpg
+    thumb: IMG_5489.jpg
+    text: swirl
+  - name: IMG_5491.jpg
+    thumb: IMG_5491.jpg
+    text: swirl
+  - name: IMG_5500.jpg
+    thumb: IMG_5500.jpg
+    text: swirl
+  - name: IMG_5509.jpg
+    thumb: IMG_5509.jpg
+    text: swirl
+  - name: IMG_5512.jpg
+    thumb: IMG_5512.jpg
+    text: swirl
+  - name: IMG_5513.jpg
+    thumb: IMG_5513.jpg
+    text: swirl
+  - name: IMG_5515.jpg
+    thumb: IMG_5515.jpg
+    text: swirl
+  - name: IMG_5517.jpg
+    thumb: IMG_5517.jpg
+    text: swirl
+  - name: IMG_5519.jpg
+    thumb: IMG_5519.jpg
+    text: swirl
+  - name: IMG_5520.jpg
+    thumb: IMG_5520.jpg
+    text: swirl
+  - name: IMG_5523.jpg
+    thumb: IMG_5523.jpg
+    text: swirl
+  - name: IMG_5527.jpg
+    thumb: IMG_5527.jpg
+    text: swirl
+  - name: IMG_5537.jpg
+    thumb: IMG_5537.jpg
+    text: swirl
+
+- id: picnic
+  description: A Picnic Barbeque Celebration
+  cover: IMG_3094.JPG
+  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/picnic/
+  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/picnic/thumbnails/
+  images:
+  - name: IMG_6414.jpg
+    thumb: IMG_6414.jpg
+    text: Grillmaster Jon
+  - name: IMG_6419.jpg
+    thumb: IMG_6419.jpg
+    text: Alex
+  - name: IMG_6420.jpg
+    thumb: IMG_6420.jpg
+    text: Matt
+  - name: IMG_6423.jpg
+    thumb: IMG_6423.jpg
+    text: Jason
+  - name: IMG_6424.jpg
+    thumb: IMG_6424.jpg
+    text: Bong
+  - name: IMG_6429.jpg
+    thumb: IMG_6429.jpg
+    text: A massage
+  - name: IMG_6431.jpg
+    thumb: IMG_6431.jpg
+    text: Jon 
+  - name: IMG_6432.jpg
+    thumb: IMG_6432.jpg
+    text: 
+  - name: IMG_6437.jpg
+    thumb: IMG_6437.jpg
+    text: 
+  - name: IMG_6444.jpg
+    thumb: IMG_6444.jpg
+    text: 
+  - name: IMG_6461.jpg
+    thumb: IMG_6461.jpg
+    text: presents
+  - name: IMG_6464.jpg
+    thumb: IMG_6464.jpg
+    text: 
+  - name: IMG_6466.jpg
+    thumb: IMG_6466.jpg
+    text: 
+  - name: IMG_6474.jpg
+    thumb: IMG_6474.jpg
+    text: 
+  - name: IMG_6480.jpg
+    thumb: IMG_6480.jpg
+    text: 
+  - name: IMG_6482.jpg
+    thumb: IMG_6482.jpg
+    text: 
+  - name: IMG_6484.jpg
+    thumb: IMG_6484.jpg
+    text: 
+  - name: IMG_6486.jpg
+    thumb: IMG_6486.jpg
+    text: 
+  - name: IMG_6488.jpg
+    thumb: IMG_6488.jpg
+    text: 
+  - name: IMG_6490.jpg
+    thumb: IMG_6490.jpg
+    text: 
+  - name: IMG_6495.jpg
+    thumb: IMG_6495.jpg
+    text: 
+  - name: IMG_6498.jpg
+    thumb: IMG_6498.jpg
+    text: 
+  - name: IMG_6499.jpg
+    thumb: IMG_6499.jpg
+    text: 
