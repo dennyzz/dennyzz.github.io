@@ -10,4 +10,4 @@ The only problem we have with it is that the script doesn't run until all of the
 I think this bug will stay for now, but it is noted, and when there is time to tweak it that will be a good idea to work with to start. 
 I have uploaded a few more albums both to ensure that everything works and to check the speed for larger photo albums, and whether there is any noticeable lag scrolling through a large number of photos. 
 The lightbox2 plugin still is still having some issues with creating the properly sized backing white border, but we'll leave it as I am in the process of looking for another lightbox/gallery plugin to do display once you click an image.
-So, go on over and check it out [Here](/gallery/cleland/)
+So, go on over and check it out [Here](/gallery/albums/cleland/)
