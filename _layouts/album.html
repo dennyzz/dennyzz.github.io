@@ -3,17 +3,10 @@ layout: unwrapped
 ---
 	
 {% include galleryinclude.html %}
-<script>
-var gallery = $('.photos').gallerify({
-  margin:2,
-  mode:'default',
-  lastRow:'adjust'
-}); 
-</script>
+
 <!-- <p>default header for all gallery pages</p> -->
 <h1>{{ album.description }}</h1>
 <div class="photos">
-
 {% for album in site.data.albums %}
   {% if album.id == page.albumid %}
     {% for image in album.images %}
@@ -25,15 +18,18 @@ var gallery = $('.photos').gallerify({
     </div>
     {% endfor %}
   {% endif %}
-
 {% endfor %}
-
 <!--       {{ image.text }}<br>
       <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
         <img src="{{ album.thumbfolder }}{{ image.thumb }}">
       </a>   -->
-
 </div>
 <!-- <p>default footer for all gallery pages</p> -->
-
 <!-- Scripts -->
+<script>
+var gallery = $('.photos').gallerify({
+  margin:2,
+  mode:'flickr',
+  lastRow:'adjust'
+}); 
+</script>
