@@ -16,6 +16,30 @@
 			}
 		},
 		{
+			"file": "_data/albums.yml",
+			"settings":
+			{
+				"buffer_size": 4545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2016-03-21-HelloWorld.md",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2016-03-22-PhotoAlbums.md",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "_config.yml",
 			"settings":
 			{
@@ -24,34 +48,10 @@
 			}
 		},
 		{
-			"file": "_includes/head.html",
+			"file": "_sass/_base.scss",
 			"settings":
 			{
-				"buffer_size": 623,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "gallery.md",
-			"settings":
-			{
-				"buffer_size": 364,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about.md",
-			"settings":
-			{
-				"buffer_size": 492,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 502,
+				"buffer_size": 3534,
 				"line_ending": "Unix"
 			}
 		}
@@ -89,6 +89,8 @@
 	"expanded_folders":
 	[
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_data",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_includes",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_layouts",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_posts",
@@ -99,6 +101,19 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/picnic.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/stegosaurus.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/gallery.md",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_layouts/album.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_sass/_base.scss",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/bungy.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/lights.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/lights/lights.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/bungy/index.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_includes/header.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/about.md",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/picnic/index.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/lights/index.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_projects/1_project.markdown",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_posts/2016-03-21-HelloWorld.md",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_includes/galheader.html",
@@ -111,7 +126,7 @@
 	],
 	"find":
 	{
-		"height": 21.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -152,7 +167,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -168,8 +183,8 @@
 						"selection":
 						[
 							[
-								54,
-								54
+								590,
+								590
 							]
 						],
 						"settings":
@@ -187,19 +202,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_config.yml",
+					"file": "_data/albums.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 975,
+						"buffer_size": 4545,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								833,
-								833
+								1064,
+								1064
 							]
 						],
 						"settings":
@@ -212,16 +227,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "_includes/head.html",
+					"file": "_posts/2016-03-21-HelloWorld.md",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 623,
+						"buffer_size": 591,
 						"regions":
 						{
 						},
@@ -229,63 +244,7 @@
 						[
 							[
 								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "gallery.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 364,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								37
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "about.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								48,
-								48
+								591
 							]
 						],
 						"settings":
@@ -300,26 +259,90 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_includes/header.html",
+					"buffer": 3,
+					"file": "_posts/2016-03-22-PhotoAlbums.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 502,
+						"buffer_size": 1005,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								455,
-								455
+								1005,
+								1005
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
 							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "_sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -349,11 +372,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -401,7 +431,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
