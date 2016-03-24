@@ -184,3 +184,244 @@
   - name: IMG_6499.jpg
     thumb: IMG_6499.jpg
     text: 
+
+- id: cleland
+  description: Cleland Wildlife Park
+  cover: IMG_7041.JPG
+  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/cleland/
+  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/cleland/thumbnails/
+  images:
+  - name: IMG_7013.jpg
+    thumb: IMG_7013.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7017.jpg
+    thumb: IMG_7017.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7022.jpg
+    thumb: IMG_7022.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7023.jpg
+    thumb: IMG_7023.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7028.jpg
+    thumb: IMG_7028.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7030.jpg
+    thumb: IMG_7030.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7035.jpg
+    thumb: IMG_7035.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7038.jpg
+    thumb: IMG_7038.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7040.jpg
+    thumb: IMG_7040.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7041.jpg
+    thumb: IMG_7041.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7045.jpg
+    thumb: IMG_7045.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7048.jpg
+    thumb: IMG_7048.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7054.jpg
+    thumb: IMG_7054.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7058.jpg
+    thumb: IMG_7058.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7067.jpg
+    thumb: IMG_7067.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7068.jpg
+    thumb: IMG_7068.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7078.jpg
+    thumb: IMG_7078.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7088.jpg
+    thumb: IMG_7088.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7090.jpg
+    thumb: IMG_7090.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7098.jpg
+    thumb: IMG_7098.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7101.jpg
+    thumb: IMG_7101.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7112.jpg
+    thumb: IMG_7112.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7117.jpg
+    thumb: IMG_7117.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7128.jpg
+    thumb: IMG_7128.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7135.jpg
+    thumb: IMG_7135.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7136.jpg
+    thumb: IMG_7136.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7138.jpg
+    thumb: IMG_7138.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7143.jpg
+    thumb: IMG_7143.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7145.jpg
+    thumb: IMG_7145.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7146.jpg
+    thumb: IMG_7146.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7153.jpg
+    thumb: IMG_7153.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7154.jpg
+    thumb: IMG_7154.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7159.jpg
+    thumb: IMG_7159.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7162.jpg
+    thumb: IMG_7162.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7163.jpg
+    thumb: IMG_7163.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7169.jpg
+    thumb: IMG_7169.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7172.jpg
+    thumb: IMG_7172.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7175.jpg
+    thumb: IMG_7175.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7177.jpg
+    thumb: IMG_7177.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7179.jpg
+    thumb: IMG_7179.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7180.jpg
+    thumb: IMG_7180.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7185.jpg
+    thumb: IMG_7185.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7191.jpg
+    thumb: IMG_7191.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7195.jpg
+    thumb: IMG_7195.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7199.jpg
+    thumb: IMG_7199.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7207.jpg
+    thumb: IMG_7207.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7210.jpg
+    thumb: IMG_7210.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7219.jpg
+    thumb: IMG_7219.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7221.jpg
+    thumb: IMG_7221.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7229.jpg
+    thumb: IMG_7229.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7233.jpg
+    thumb: IMG_7233.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7242.jpg
+    thumb: IMG_7242.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7248.jpg
+    thumb: IMG_7248.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7258.jpg
+    thumb: IMG_7258.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7262.jpg
+    thumb: IMG_7262.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7272.jpg
+    thumb: IMG_7272.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7282.jpg
+    thumb: IMG_7282.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7290.jpg
+    thumb: IMG_7290.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7298.jpg
+    thumb: IMG_7298.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7300.jpg
+    thumb: IMG_7300.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7306.jpg
+    thumb: IMG_7306.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7308.jpg
+    thumb: IMG_7308.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7315.jpg
+    thumb: IMG_7315.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7318.jpg
+    thumb: IMG_7318.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7321.jpg
+    thumb: IMG_7321.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7328.jpg
+    thumb: IMG_7328.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7330.jpg
+    thumb: IMG_7330.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7333.jpg
+    thumb: IMG_7333.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7338.jpg
+    thumb: IMG_7338.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7339.jpg
+    thumb: IMG_7339.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7348.jpg
+    thumb: IMG_7348.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7356.jpg
+    thumb: IMG_7356.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7360.jpg
+    thumb: IMG_7360.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7365.jpg
+    thumb: IMG_7365.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7370.jpg
+    thumb: IMG_7370.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7377.jpg
+    thumb: IMG_7377.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7385.jpg
+    thumb: IMG_7385.jpg
+    text: Maybe a Kangaroooo
+  - name: IMG_7391.jpg
+    thumb: IMG_7391.jpg
+    text: Maybe a Kangaroooo
