@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/
 title: gallery
 navbar: yes
-description: Photography Gallery
+description: 
 ---
 
 {% for album in site.data.albums %}
