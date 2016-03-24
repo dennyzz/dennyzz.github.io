@@ -1,0 +1,5 @@
+lightbox.js	- lightbox 2 master
+lightbox.min.js - lightbox 2 master minified
+lightbox.min.map - map file for lightbox2 master min
+jquery.xgallerify.min.js - gallerify min
+jquery.xgallerify.js - gallerify min
