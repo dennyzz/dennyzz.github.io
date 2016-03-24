@@ -48,7 +48,6 @@ $theme-color:   $blue;
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
-    line-height: $base-line-height;
     font-weight: 100;
     color: $text-color;
     background-color: $background-color;
@@ -195,6 +194,7 @@ pre {
  */ 
 
 .wrapper {
+    line-height: $base-line-height;
     max-width: -webkit-calc(1000px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(1000px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
