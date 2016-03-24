@@ -11,21 +11,18 @@ layout: unwrapped
 {% for album in site.data.albums %}
   {% if album.id == page.albumid %}
     {% for image in album.images %}
-
-  <div class="photo">
       <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
       <img src="{{ album.thumbfolder }}{{ image.thumb }}">
       </a>
-  </div>
     {% endfor %}
   {% endif %}
 
 {% endfor %}
 
-      {{ image.text }}<br>
+<!--       {{ image.text }}<br>
       <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
         <img src="{{ album.thumbfolder }}{{ image.thumb }}">
-      </a>  
+      </a>   -->
 
 </div>
 <!-- <p>default footer for all gallery pages</p> -->
