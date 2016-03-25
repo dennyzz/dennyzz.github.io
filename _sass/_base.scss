@@ -214,7 +214,7 @@ pre {
 /** 
 move this to a specific gallery sass file
 **/
-.photo:hover .title {
+.photo:hover .overlay {
   opacity: 1.0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
