@@ -14,7 +14,7 @@ layout: unwrapped
       <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
       <img src="{{ album.thumbfolder }}{{ image.thumb }}">
       </a>
-      <div class="title">{{ image.text }}</div>
+      <div class="overlay"><span class="title">{{ image.text }}</span></div>
     </div>
     {% endfor %}
   {% endif %}
