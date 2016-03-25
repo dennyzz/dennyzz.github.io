@@ -245,12 +245,12 @@ move this to a specific gallery sass file
   background: -o-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0)); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0)); /* For Firefox 3.6 to 15 */
   background: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0)); /* Standard syntax (must be last) */
+  overflow:hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .title {
     padding-left:10px;
-    overflow:hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
 }
 img{
   display:block;
