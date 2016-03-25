@@ -211,7 +211,16 @@ pre {
     }
 }
 
-.photo {
+/** 
+move this to a specific gallery sass file
+**/
+.photo:hover .title {
+  opacity: 1.0;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
 }
 .photos {
   position: relative;
@@ -219,6 +228,19 @@ pre {
   font-size:0px;
   text-align:center;
 }
+.title {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  text-align:left;
+  color:white;
+  opacity: 0.0;
+  background: -webkit-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,0)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0)); /* Standard syntax (must be last) */
+}
+
 
 /**
  * Clearfix
