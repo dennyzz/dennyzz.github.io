@@ -221,6 +221,9 @@ move this to a specific gallery sass file
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+.photo { 
+  position:relative;
+}
 .photos {
   position: relative;
   margin:auto;
