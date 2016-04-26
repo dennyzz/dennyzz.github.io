@@ -30,35 +30,55 @@
   thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/bungy/thumbnails/
   images:
   - name: bungy-1.jpg
-    thumb: bungy-1.jpg
-    text: Ready to Jump
+    thumb: bungy-1.jpg 
+    width: 604 
+    height: 400
+    text: Ready to Jump 
   - name: bungy-2.jpg
-    thumb: bungy-2.jpg
-    text: A side view
+    thumb: bungy-2.jpg 
+    width: 400 
+    height: 600
+    text: A side view 
   - name: bungy-3.jpg
-    thumb: bungy-3.jpg
-    text: Jump!
+    thumb: bungy-3.jpg 
+    width: 600 
+    height: 400
+    text: Jump! 
   - name: bungy-4.jpg
-    thumb: bungy-4.jpg
-    text: In the Air
+    thumb: bungy-4.jpg 
+    width: 600 
+    height: 400
+    text: In the Air 
   - name: bungy-5.jpg
-    thumb: bungy-5.jpg
-    text: Upside down
+    thumb: bungy-5.jpg 
+    width: 600 
+    height: 400
+    text: Upside down 
   - name: bungy-6.jpg
-    thumb: bungy-6.jpg
-    text: Bounce around
+    thumb: bungy-6.jpg 
+    width: 600 
+    height: 400
+    text: Bounce around 
   - name: bungy-7.jpg
-    thumb: bungy-7.jpg
-    text: Belly
+    thumb: bungy-7.jpg 
+    width: 600 
+    height: 400
+    text: Belly 
   - name: bungy-8.jpg
-    thumb: bungy-8.jpg
-    text: Boat rescue
+    thumb: bungy-8.jpg 
+    width: 600 
+    height: 400
+    text: Boat rescue 
   - name: bungy-9.jpg
-    thumb: bungy-9.jpg
-    text: Fisheye View
+    thumb: bungy-9.jpg 
+    width: 400 
+    height: 604
+    text: Fisheye View 
   - name: bungy-10.jpg
-    thumb: bungy-10.jpg
-    text: Wide Shot
+    thumb: bungy-10.jpg  
+    width: 604 
+    height: 400
+    text: Wide Shot 
 
 - id: lights
   description: Light Painting Swirls

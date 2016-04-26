@@ -19,39 +19,7 @@
 			"file": "_data/albums.yml",
 			"settings":
 			{
-				"buffer_size": 10758,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/main.scss",
-			"settings":
-			{
-				"buffer_size": 990,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2016-03-23-AlbumDisplay.md",
-			"settings":
-			{
-				"buffer_size": 1380,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "gallery.md",
-			"settings":
-			{
-				"buffer_size": 614,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_base.scss",
-			"settings":
-			{
-				"buffer_size": 4628,
+				"buffer_size": 11099,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,23 +27,15 @@
 			"file": "_layouts/album.html",
 			"settings":
 			{
-				"buffer_size": 1028,
+				"buffer_size": 1087,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_gallery/bungy.html",
+			"file": "js/jquery.xgallerify.min.js",
 			"settings":
 			{
-				"buffer_size": 57,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_gallery/cleland.html",
-			"settings":
-			{
-				"buffer_size": 67,
+				"buffer_size": 2682,
 				"line_ending": "Windows"
 			}
 		}
@@ -126,16 +86,23 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/js/jquery.xgallerify.js",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/imagesize.py",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/css/lightbox.css",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/css/lightbox.min.css",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/gallery.md",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_layouts/album.html",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/css/main.scss",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_posts/2016-03-23-AlbumDisplay.md",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_sass/_base.scss",
+		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/cleland.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_includes/galleryinclude.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_layouts/unwrapped.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_data/albums.yml",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/projects.md",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_posts/2016-03-22-PhotoAlbums.md",
-		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_sass/_base.scss",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/picnic.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/stegosaurus.html",
-		"/C/Users/Denny/Documents/Git/dennyzz.github.io/gallery.md",
-		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_layouts/album.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/bungy.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/lights.html",
 		"/C/Users/Denny/Documents/Git/dennyzz.github.io/_gallery/lights/lights.html",
@@ -170,6 +137,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"current",
+			"jChildren",
+			"text",
+			"x",
+			"_jChild.width",
+			"ximage",
+			"params",
+			"width",
+			"height",
+			"width",
+			"images",
+			"png",
+			"images",
+			"png",
+			"close",
+			"back",
 			"wrapper",
 			"page-content",
 			"content",
@@ -184,6 +167,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			" ",
 			"project",
 			"projects"
 		],
@@ -202,7 +186,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -218,8 +202,8 @@
 						"selection":
 						[
 							[
-								748,
-								748
+								975,
+								975
 							]
 						],
 						"settings":
@@ -241,15 +225,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10758,
+						"buffer_size": 11099,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2387,
-								2387
+								754,
+								754
 							]
 						],
 						"settings":
@@ -258,144 +242,28 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/main.scss",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 990,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2016-03-23-AlbumDisplay.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1380,
-								1380
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 15.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "gallery.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 614,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								78,
-								78
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_sass/_base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4628,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4428,
-								4269
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2955.0,
+						"translation.x": -0.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 2,
 					"file": "_layouts/album.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1028,
+						"buffer_size": 1087,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								962,
-								962
+								662,
+								662
 							]
 						],
 						"settings":
@@ -408,16 +276,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_gallery/bungy.html",
+					"buffer": 3,
+					"file": "js/jquery.xgallerify.min.js",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 57,
+						"buffer_size": 2682,
 						"regions":
 						{
 						},
@@ -425,48 +293,25 @@
 						[
 							[
 								0,
-								57
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_gallery/cleland.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 67,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								63,
-								63
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
+					"stack_index": 1,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -487,11 +332,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -509,7 +361,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 38.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
