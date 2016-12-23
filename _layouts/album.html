@@ -9,8 +9,8 @@ layout: unwrapped
   {% if album.id == page.albumid %}
     {% for image in album.images %}
     <div class="photo">
-      <a href="{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
-      <img src="{{ album.thumbfolder }}{{ image.thumb }}">
+      <a href="{{ album.rootfolder }}{{ album.imagefolder }}{{ image.name }}" data-lightbox="{{ album.id }}" title="{{ image.text }}">
+      <img src="{{ album.rootfolder }}{{ album.thumbfolder }}{{ image.thumb }}">
       </a>
       <div class="overlay"><span class="title">{{ image.text }}</span></div>
     </div>

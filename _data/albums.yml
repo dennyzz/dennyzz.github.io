@@ -1,8 +1,10 @@
 - id: stegosaurus
   description: Building a Snow Stegosaurus
   cover: IMG_3094.JPG
-  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/stegosaurus/
-  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/stegosaurus/thumbnails/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: Assets/Images/photography/stegosaurus/
+  thumbfolder: Assets/Images/photography/stegosaurus/thumbnails/
   images:
   - name: IMG_3061.jpg
     thumb: IMG_3061.jpg
@@ -22,12 +24,14 @@
   - name: IMG_3094.jpg
     thumb: IMG_3094.jpg
     text: All of us 
-
+  
 - id: bungy
   description: Bungy Jumping off Kawarau Bridge
   cover: bungy-1.jpg
-  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/bungy/
-  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/bungy/thumbnails/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: Assets/Images/photography/bungy/
+  thumbfolder: Assets/Images/photography/bungy/thumbnails/
   images:
   - name: bungy-1.jpg
     thumb: bungy-1.jpg 
@@ -83,8 +87,10 @@
 - id: lights
   description: Light Painting Swirls
   cover: IMG_5515.jpg
-  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/lights/
-  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/lights/thumbnails/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: Assets/Images/photography/lights/
+  thumbfolder: Assets/Images/photography/lights/thumbnails/
   images:
   - name: IMG_5487.jpg
     thumb: IMG_5487.jpg
@@ -132,8 +138,10 @@
 - id: picnic
   description: A Picnic Barbeque Celebration
   cover: IMG_6498.JPG
-  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/picnic/
-  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/picnic/thumbnails/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: Assets/Images/photography/picnic/
+  thumbfolder: Assets/Images/photography/picnic/thumbnails/
   images:
   - name: IMG_6414.jpg
     thumb: IMG_6414.jpg
@@ -208,8 +216,10 @@
 - id: cleland
   description: Cleland Wildlife Park
   cover: IMG_7041.JPG
-  imagefolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/cleland/
-  thumbfolder: https://dl.dropboxusercontent.com/u/19515841/Assets/Images/photography/cleland/thumbnails/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: Assets/Images/photography/cleland/
+  thumbfolder: Assets/Images/photography/cleland/thumbnails/
   images:
   - name: IMG_7013.jpg
     thumb: IMG_7013.jpg
