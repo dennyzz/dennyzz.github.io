@@ -1,8 +1,8 @@
 - id: stegosaurus
   description: Building a Snow Stegosaurus
   cover: IMG_3094.JPG
-  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
-  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/stegosaurus/
   thumbfolder: assets/images/photography/stegosaurus/thumbnails/
   images:
@@ -28,8 +28,8 @@
 - id: bungy
   description: Bungy Jumping off Kawarau Bridge
   cover: bungy-1.jpg
-  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
-  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/bungy/
   thumbfolder: assets/images/photography/bungy/thumbnails/
   images:
@@ -87,8 +87,8 @@
 - id: lights
   description: Light Painting Swirls
   cover: IMG_5515.jpg
-  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
-  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/lights/
   thumbfolder: assets/images/photography/lights/thumbnails/
   images:
@@ -138,8 +138,8 @@
 - id: picnic
   description: A Picnic Barbeque Celebration
   cover: IMG_6498.JPG
-  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
-  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/picnic/
   thumbfolder: assets/images/photography/picnic/thumbnails/
   images:
@@ -216,8 +216,8 @@
 - id: cleland
   description: Cleland Wildlife Park
   cover: IMG_7041.JPG
-  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
-  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  # rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
+  rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/cleland/
   thumbfolder: assets/images/photography/cleland/thumbnails/
   images:
