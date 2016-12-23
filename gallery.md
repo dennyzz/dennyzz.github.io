@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /gallery/
-title: gallery
+permalink: /photography/
+title: Photography
 navbar: yes
 description: 
 ---
@@ -10,7 +10,7 @@ description:
 
 <div class="project">
     <div class="thumbnail">
-        <a href="{{ site.baseurl }}/gallery/albums/{{ album.id }}">
+        <a href="{{ site.baseurl }}/photography/albums/{{ album.id }}">
         {% if album.cover %}
         <img class="thumbnail" src="{{ album.rootfolder }}{{ album.thumbfolder }}{{ album.cover }}"/>
         {% else %}
