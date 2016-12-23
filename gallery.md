@@ -12,7 +12,7 @@ description:
     <div class="thumbnail">
         <a href="{{ site.baseurl }}/gallery/albums/{{ album.id }}">
         {% if album.cover %}
-        <img class="thumbnail" src="{{ album.thumbfolder }}{{ album.cover }}"/>
+        <img class="thumbnail" src="{{ album.rootfolder }}{{ album.thumbfolder }}{{ album.cover }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
