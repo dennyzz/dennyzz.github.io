@@ -3,8 +3,8 @@
   cover: IMG_3094.JPG
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: Assets/Images/photography/stegosaurus/
-  thumbfolder: Assets/Images/photography/stegosaurus/thumbnails/
+  imagefolder: assets/images/photography/stegosaurus/
+  thumbfolder: assets/images/photography/stegosaurus/thumbnails/
   images:
   - name: IMG_3061.jpg
     thumb: IMG_3061.jpg
@@ -30,8 +30,8 @@
   cover: bungy-1.jpg
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: Assets/Images/photography/bungy/
-  thumbfolder: Assets/Images/photography/bungy/thumbnails/
+  imagefolder: assets/images/photography/bungy/
+  thumbfolder: assets/images/photography/bungy/thumbnails/
   images:
   - name: bungy-1.jpg
     thumb: bungy-1.jpg 
@@ -89,8 +89,8 @@
   cover: IMG_5515.jpg
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: Assets/Images/photography/lights/
-  thumbfolder: Assets/Images/photography/lights/thumbnails/
+  imagefolder: assets/images/photography/lights/
+  thumbfolder: assets/images/photography/lights/thumbnails/
   images:
   - name: IMG_5487.jpg
     thumb: IMG_5487.jpg
@@ -140,8 +140,8 @@
   cover: IMG_6498.JPG
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: Assets/Images/photography/picnic/
-  thumbfolder: Assets/Images/photography/picnic/thumbnails/
+  imagefolder: assets/images/photography/picnic/
+  thumbfolder: assets/images/photography/picnic/thumbnails/
   images:
   - name: IMG_6414.jpg
     thumb: IMG_6414.jpg
@@ -218,8 +218,8 @@
   cover: IMG_7041.JPG
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: Assets/Images/photography/cleland/
-  thumbfolder: Assets/Images/photography/cleland/thumbnails/
+  imagefolder: assets/images/photography/cleland/
+  thumbfolder: assets/images/photography/cleland/thumbnails/
   images:
   - name: IMG_7013.jpg
     thumb: IMG_7013.jpg
