@@ -35,7 +35,7 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  gallery:
+  photography:
     output: true
     permalink: /photography/albums/:path/
   projects:
