@@ -1,6 +1,6 @@
 - id: stegosaurus
   description: Building a Snow Stegosaurus
-  cover: IMG_3094.JPG
+  cover: IMG_3094.jpg
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/stegosaurus/
@@ -137,7 +137,7 @@
 
 - id: picnic
   description: A Picnic Barbeque Celebration
-  cover: IMG_6498.JPG
+  cover: IMG_6498.jpg
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/picnic/
@@ -215,7 +215,7 @@
 
 - id: cleland
   description: Cleland Wildlife Park
-  cover: IMG_7041.JPG
+  cover: IMG_7041.jpg
   rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
   imagefolder: assets/images/photography/cleland/
