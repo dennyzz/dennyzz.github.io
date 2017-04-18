@@ -67,6 +67,14 @@
 			}
 		},
 		{
+			"file": "css/lightbox.css",
+			"settings":
+			{
+				"buffer_size": 3709,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "css/main.scss",
 			"settings":
 			{
@@ -116,11 +124,19 @@
 	},
 	"expanded_folders":
 	[
-		"/D/My Documents/Documents/Git/dennyzz"
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_data",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_includes",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_layouts",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_photography",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_posts",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_projects",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_sass",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/css",
+		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/img"
 	],
 	"file_history":
 	[
-		"/D/My Documents/Documents/Git/dennyzz/css/lightbox.css",
 		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_data/albums.yml",
 		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/_posts/2016-12-22-DropboxHosting.md",
 		"/C/Users/Denny Zhang/Documents/Git/dennyzz.github.io/gallery.md",
@@ -226,7 +242,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -344,7 +360,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -430,11 +446,41 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
+					"file": "css/lightbox.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3709,
+								3709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2885.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
 					"file": "css/main.scss",
 					"semi_transient": true,
 					"settings":
@@ -462,7 +508,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
@@ -488,7 +534,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]

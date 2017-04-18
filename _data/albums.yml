@@ -1,9 +1,10 @@
 - id: stegosaurus
   description: Building a Snow Stegosaurus
   cover: IMG_3094.jpg
+  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: images/photography/stegosaurus/
-  thumbfolder: images/photography/stegosaurus/thumbnails/
+  imagefolder: assets/images/photography/stegosaurus/
+  thumbfolder: assets/images/photography/stegosaurus/thumbnails/
   images:
   - name: IMG_3061.jpg
     thumb: IMG_3061.jpg
@@ -27,9 +28,10 @@
 - id: bungy
   description: Bungy Jumping off Kawarau Bridge
   cover: bungy-1.jpg
+  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: images/photography/bungy/
-  thumbfolder: images/photography/bungy/thumbnails/
+  imagefolder: assets/images/photography/bungy/
+  thumbfolder: assets/images/photography/bungy/thumbnails/
   images:
   - name: bungy-1.jpg
     thumb: bungy-1.jpg 
@@ -85,9 +87,10 @@
 - id: lights
   description: Light Painting Swirls
   cover: IMG_5515.jpg
+  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: images/photography/lights/
-  thumbfolder: images/photography/lights/thumbnails/
+  imagefolder: assets/images/photography/lights/
+  thumbfolder: assets/images/photography/lights/thumbnails/
   images:
   - name: IMG_5487.jpg
     thumb: IMG_5487.jpg
@@ -135,9 +138,10 @@
 - id: picnic
   description: A Picnic Barbeque Celebration
   cover: IMG_6498.jpg
+  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: images/photography/picnic/
-  thumbfolder: images/photography/picnic/thumbnails/
+  imagefolder: assets/images/photography/picnic/
+  thumbfolder: assets/images/photography/picnic/thumbnails/
   images:
   - name: IMG_6414.jpg
     thumb: IMG_6414.jpg
@@ -212,9 +216,10 @@
 - id: cleland
   description: Cleland Wildlife Park
   cover: IMG_7041.jpg
+  rootfolder: https://s3.amazonaws.com/io.dennyzz.bucket/
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
-  imagefolder: images/photography/cleland/
-  thumbfolder: images/photography/cleland/thumbnails/
+  imagefolder: assets/images/photography/cleland/
+  thumbfolder: assets/images/photography/cleland/thumbnails/
   images:
   - name: IMG_7013.jpg
     thumb: IMG_7013.jpg
