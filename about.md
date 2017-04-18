@@ -8,8 +8,7 @@ navbar: yes
 <img class="col one right" src="/img/squirrel.jpg">
 
 <br/>
-Hi there! I'm Denny.
-I am currently attending the University of Michigan majoring in Electrical Engineering
+Hi there! I'm Denny, a student attending the University of Michigan with a major in Electrical Engineering
 
 <br/>
 <br/>
