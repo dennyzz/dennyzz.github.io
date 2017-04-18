@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /photography/
+permalink: /photography
 title: Photography
 navbar: yes
 description: 
@@ -12,7 +12,7 @@ description:
     <div class="thumbnail">
         <a href="{{ site.baseurl }}/photography/albums/{{ album.id }}">
         {% if album.cover %}
-        <img class="thumbnail" src="{{ album.rootfolder }}{{ album.thumbfolder }}{{ album.cover }}"/>
+        <img class="thumbnail" src="{{ site.asseturl }}{{ album.thumbfolder }}{{ album.cover }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    

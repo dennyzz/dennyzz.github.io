@@ -2,7 +2,8 @@
 layout: post
 title: Github Pages Website
 description: a Github Pages Website powered by Jekyll
-img: /img/squirrel.jpg
+imgroot: /images/projects/github.io
+img: /cover.jpg
 ---
 
 This website will be project #1 to fill in things as I go 
