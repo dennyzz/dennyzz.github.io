@@ -17,7 +17,7 @@ description:
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ album.title }}</h1>
+            <h3>{{ album.title }}</h3>
             <br/>
             <p>{{ album.description }}</p>
         </span>

@@ -1,4 +1,5 @@
 - id: stegosaurus
+  title: Snow Stegosaurus
   description: Building a Snow Stegosaurus
   cover: IMG_3094.jpg
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
@@ -25,6 +26,7 @@
     text: All of us 
   
 - id: bungy
+  title: Bungy
   description: Bungy Jumping off Kawarau Bridge
   cover: bungy-1.jpg
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
@@ -83,6 +85,7 @@
     text: Wide Shot 
 
 - id: lights
+  title: Light Swirls
   description: Light Painting Swirls
   cover: IMG_5515.jpg
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
@@ -133,6 +136,7 @@
     text: swirl
 
 - id: picnic
+  title: Picnic
   description: A Picnic Barbeque Celebration
   cover: IMG_6498.jpg
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
@@ -210,6 +214,7 @@
     text: 
 
 - id: cleland
+  title: Cleland
   description: Cleland Wildlife Park
   cover: IMG_7041.jpg
   # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
