@@ -3,7 +3,7 @@ title: Denny Zhang
 email: dennyz@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   An online portfolio
-baseurl: https://dennyzz.github.io
+baseurl: https://dennyzz.github.io/io.dev
 asseturl: https://s3.amazonaws.com/io.dennyzz.bucket/assets
 
 # Includes an icon in the footer for each username you enter
