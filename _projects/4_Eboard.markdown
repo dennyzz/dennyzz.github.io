@@ -24,17 +24,12 @@ Design a fully functional and customizable electric longboard. Using BMS and sys
  * Build the Battery Electronics
 
 ### Design Ideas/Process
-To get started with this build, it is best to start simple and plan for increasing features as progress is made. In this way, a minimum viable product beginning should be done. This brings us to our core components
+To get started with this build, it is best to start simple and plan for increasing features as progress is made. In this way, I can start with the minimum viable product and build upon it as having a functional project is much easier to test with. This brings us to our core components
  * Deck + Trucks + Wheels
- * Motor + Motor Mounting + Gearing
- * Motor Controller
+ * Motor + Motor Mounts + Gearing
+ * Motor Controller + controller
  * Power Source
-Even the longboard could be borrowed for now to start with testing, so that there is always some hardware that is actually working. 
 
-
-
-Some fun future ideas are to port over our BMS architecture from UMSolarCar to create a 10 or 12 cell battery pack with monitoring. 
- 
 ## Github Repository 
 [//]: # (The repository will probably contain the custom stmf4 BMS firmware as well as PCB design and BOM lists)
 Not yet setup, still working on initial HW design
@@ -57,3 +52,16 @@ Not yet setup, still working on initial HW design
 ### Deck Selection
 
 ## Software Overview
+
+## Functional Prototype 
+
+The current functional prototype is mostly with off the shelf components so that I could have everything up and running to get some practice actually learning how to ride a longboard. I went ahead and bought myself a used longboard to have some base to start with which happened to be a Sector9 Blue Wave Lookout board for cheap. After a failed attempt at making the VESC PCB by hand, I went ahead and bought an assembled VESC and most of the other necessary mounting components. 
+Right now the parts list stands at:
+ * Sector 9 Blue Wave Lookout deck
+ * Test 1S10P 18650B cell battery pack
+ * VESC motor controller (TorqueBoards)
+ * Emax 5335 BLDC motor (Feeling cheated because it is actually a 63mm diametermotor)
+ * Nyko Kama controller for a quick controller
+ * Misc connectors and wiring
+
+The whole setup is currently functional but is restricted by the batteries which are only designed for 6.7A discharge. 
