@@ -3,21 +3,27 @@ layout: post
 title: Electric Longboard
 description: an Electric Longboard Build
 imgroot: /images/projects/eboard
-img: /cover.jpg
+img: /temp.jpg
 ---
 
 # Work In Progress
 Follow along as this build progresses
+<div>
+	<img class="col three" src="{{ site.asseturl }}{{ page.imgroot }}/temp.jpg" alt="Initial testing" title="Initial testing"/>
+</div>
+<!-- <div class="col three caption">
 
+</div>
+ -->
 ## Project Goal
 Design a fully functional and customizable electric longboard. Using BMS and systems design knowledge gained from SolarCar work, create a custom pack and charging solution, as well as a custom remote control and UI. 
 
 ### Design Goals
 [//]: # (Maybe put down almost a to-do list of goals to meet and keep up as this progresses)
- * x Build out a test battery pack (no BMS)
- * Build out a VESC motor controller 
+ * ~~Build out a test battery pack (no BMS)~~
+ * ~~Build out a VESC motor controller~~ the build failed, still parts for a second attempt, bought one instead
  * Build Drivetrain: Motor, Mounts, Pulleys, Wiring
- * Preliminary tests with VESC + Nyko Kama
+ * ~~Preliminary tests with VESC + Nyko Kama~~
  * CAD modeling the final battery pack design
  * Internal Charger and BMS design
  * External "Fast Charger" design
