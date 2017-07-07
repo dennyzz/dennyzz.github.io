@@ -112,9 +112,6 @@ Using the extracted data points, we can move on to the next step in the algorith
 Once the lane is reconstructed in an accessible manner, some parameters can be extracted and fed into a control loop to keep the vehicle driving within the lane. For our implementation of the algorithm, two values are extracted and fed into the motor control loop. The first value is a lane offset error. A location on the image can be found for the current location of lane center by taking a point on each of the lines close to the vehicle. Then the midpoint is found and set as the current lane center. By assuming that the center of the image lines up with the center of the vehicle, we can compute an error value for this lane offset by finding the distance between the location of the midpoint and the center of the image. The other value that extracted from the lane lines is a future lane angle. By having a forward-facing camera, we have some ability to see the upcoming lane, which helps greatly with turns. To find an angle measurement, we take a point on both lanes farther away from the vehicle, and use the slope of the quadratic curve to compute an angle. An average of the left and right angles is taken to model the angle of the track itself. This gives us some representation of the lane curvature ahead of the vehicle and makes taking curves much smoother.
 
 ### Demo Day
-The demonstration that we were able to perform for our Project Expo was to have the vehicle running around a track with no help. 
-
-
-
+The demonstration that we were able to perform for our Project Expo was to have the vehicle running around a track with no minimal help, we had some issues due to low angle light glare against the electrical tape, and potential errors cropping up in the processing as the Raspberry Pi cannot maintain a consistent loop time for each image frame. 
 
 [1] Huang, Xiaoyun et al. "Extended-Search, Bézier Curve-Based Lane Detection And Reconstruction System For An Intelligent Vehicle". International Journal of Advanced Robotic Systems 12.9 (2015): 132. Web. 30 Apr. 2017.
