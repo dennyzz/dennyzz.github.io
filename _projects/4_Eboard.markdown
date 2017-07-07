@@ -61,6 +61,13 @@ Not yet setup, still working on initial HW design
 * [VESC BLDC Controller FW](https://github.com/vedderb/bldc)
 
 ## BOM
+* Deck
+* Caliber II 50 Trucks
+* 80mm Orangatang Kegels
+* Bones Reds Skate Bearings
+* TorqueBoards Motor Mount
+* TorqueBoards 13T - 36T belt drive
+* ...
 
 ## Hardware Architecture
 
