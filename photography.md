@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /photography
+permalink: photography/
 title: Photography
 navbar: yes
 description: 

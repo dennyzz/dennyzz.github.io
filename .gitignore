@@ -2,3 +2,5 @@ _site
 .sass-cache
 .DS_store
 *.sublime-workspace
+.jekyll-metadata
+node_modules/

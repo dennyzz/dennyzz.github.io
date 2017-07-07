@@ -42,5 +42,6 @@ collections:
     output: true
     permalink: /projects/:path/
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate
