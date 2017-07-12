@@ -524,3 +524,52 @@
   - name: IMG_4782.jpg
     thumb: IMG_4782.jpg
     text: Rosie
+
+- id: photonix
+  title: Photonix
+  description: Photonix Light Show
+  cover: IMG_3857.jpg
+  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: /images/photography/photonix/
+  thumbfolder: /images/photography/photonix/thumbs/
+  images:
+  - name: IMG_3862.jpg
+    thumb: IMG_3862.jpg
+    text: Swirly
+  - name: IMG_3837.jpg
+    thumb: IMG_3837.jpg
+    text: Swirly
+  - name: IMG_3838.jpg
+    thumb: IMG_3838.jpg
+    text: Swirly
+  - name: IMG_3841.jpg
+    thumb: IMG_3841.jpg
+    text: Swirly
+  - name: IMG_3844.jpg
+    thumb: IMG_3844.jpg
+    text: Swirly
+  - name: IMG_3845.jpg
+    thumb: IMG_3845.jpg
+    text: Swirly
+  - name: IMG_3848.jpg
+    thumb: IMG_3848.jpg
+    text: Swirly
+  - name: IMG_3849.jpg
+    thumb: IMG_3849.jpg
+    text: Swirly
+  - name: IMG_3852.jpg
+    thumb: IMG_3852.jpg
+    text: Swirly
+  - name: IMG_3855.jpg
+    thumb: IMG_3855.jpg
+    text: Swirly
+  - name: IMG_3856.jpg
+    thumb: IMG_3856.jpg
+    text: Swirly
+  - name: IMG_3857.jpg
+    thumb: IMG_3857.jpg
+    text: Swirly
+  - name: IMG_3860.jpg
+    thumb: IMG_3860.jpg
+    text: Swirly
+    
