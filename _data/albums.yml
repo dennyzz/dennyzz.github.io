@@ -455,3 +455,72 @@
   - name: IMG_7391.jpg
     thumb: IMG_7391.jpg
     text: Maybe a Kangaroooo
+
+- id: rosie
+  title: Rosie
+  description: Rosie the Dog
+  cover: IMG_4791.jpg
+  # rootfolder: https://dl.dropboxusercontent.com/u/19515841/
+  imagefolder: /images/photography/rosie/
+  thumbfolder: /images/photography/rosie/thumbs/
+  images:
+  - name: IMG_4785.jpg
+    thumb: IMG_4785.jpg
+    text: Rosie
+  - name: IMG_4789.jpg
+    thumb: IMG_4789.jpg
+    text: Rosie
+  - name: IMG_4791.jpg
+    thumb: IMG_4791.jpg
+    text: Rosie
+  - name: IMG_4794.jpg
+    thumb: IMG_4794.jpg
+    text: Rosie
+  - name: IMG_4799.jpg
+    thumb: IMG_4799.jpg
+    text: Rosie
+  - name: IMG_4802.jpg
+    thumb: IMG_4802.jpg
+    text: Rosie
+  - name: IMG_4804.jpg
+    thumb: IMG_4804.jpg
+    text: Rosie
+  - name: IMG_4805.jpg
+    thumb: IMG_4805.jpg
+    text: Rosie
+  - name: IMG_4806.jpg
+    thumb: IMG_4806.jpg
+    text: Rosie
+  - name: IMG_4813.jpg
+    thumb: IMG_4813.jpg
+    text: Rosie
+  - name: IMG_4818.jpg
+    thumb: IMG_4818.jpg
+    text: Rosie
+  - name: IMG_4754.jpg
+    thumb: IMG_4754.jpg
+    text: Rosie
+  - name: IMG_4755.jpg
+    thumb: IMG_4755.jpg
+    text: Rosie
+  - name: IMG_4759.jpg
+    thumb: IMG_4759.jpg
+    text: Rosie
+  - name: IMG_4762.jpg
+    thumb: IMG_4762.jpg
+    text: Rosie
+  - name: IMG_4764.jpg
+    thumb: IMG_4764.jpg
+    text: Rosie
+  - name: IMG_4765.jpg
+    thumb: IMG_4765.jpg
+    text: Rosie
+  - name: IMG_4767.jpg
+    thumb: IMG_4767.jpg
+    text: Rosie
+  - name: IMG_4770.jpg
+    thumb: IMG_4770.jpg
+    text: Rosie
+  - name: IMG_4782.jpg
+    thumb: IMG_4782.jpg
+    text: Rosie
